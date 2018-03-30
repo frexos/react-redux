@@ -1,3 +1,4 @@
-/**
- * Created by e.georgantzos on 29/3/2018.
- */
+export default {
+    authors: [],
+    courses: []
+}
